@@ -63,8 +63,7 @@ public class Butelka {
         
         System.out.println(butelka[30].getIleLitrow());
         System.out.println(butelka[47].getIleLitrow());
-
-        
+       
     }   
     
 }
